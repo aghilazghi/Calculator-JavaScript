@@ -1,0 +1,52 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    margin: 3rem auto;
+    max-width: 30%;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    margin-bottom: 2rem;
+}
+
+.display {
+    width: 98.4%;
+    background-color: steelblue;
+    height: 70px;
+    margin: 1% auto;
+    border-radius: 3%;
+}
+
+.Equation {
+    font-size: 1.5rem;
+    height: 25px;
+    text-align: right;
+    margin-right: 5px;
+    padding-bottom: 4px;
+}
+
+.CurrentNumber {
+    height: 40px;
+    font-size: 1.85px;
+    text-align: right;
+    vertical-align: middle;
+    margin-right: 2px;
+}
+
+.key {
+    width: 23%;
+    background: steelblue;
+    margin: 1%;
+    padding-bottom: 9%;
+    border-radius: 7%;
+    float: left;
+}
+
+.key:hover {
+    cursor: pointer;
+}

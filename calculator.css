@@ -17,9 +17,9 @@ hr {
 .display {
     width: 98.4%;
     background-color: steelblue;
-    height: 70px;
+    padding: 10% 0;
     margin: 1% auto;
-    border-radius: 3%;
+    border-radius: 5%;
 }
 
 .Equation {
@@ -42,9 +42,12 @@ hr {
     width: 23%;
     background: steelblue;
     margin: 1%;
-    padding-bottom: 9%;
+    padding: 4% 0;
     border-radius: 7%;
     float: left;
+    text-align: center;
+    color: #fff;
+    font-size: 2.3rem;
 }
 
 .key:hover {
